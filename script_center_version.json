@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "changelog": "Добавлена система автообновления",
-  "release_date": "2025-12-07"
-
+  "enabled": true,
+  "pass": "scriptcenter_update_v18",
+  "message": "Вышло обновление Script Center v1.8!\n\nНовые функции:\n• Поддержка CLEO и ASI файлов\n• Улучшенный интерфейс\n• Исправлены баги\n\nНажмите 'Обновить' чтобы скачать новую версию!",
+  "update_url": "https://t.me/edward_scripts/210"
 }
